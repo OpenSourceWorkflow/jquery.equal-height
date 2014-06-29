@@ -5,7 +5,7 @@
 
 ;(function($) {
 
-  $.fn.mf_EqualHeight = function() {
+  $.fn.equalheight = function() {
 
     var heights = 0;
 
