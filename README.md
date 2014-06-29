@@ -14,7 +14,7 @@ Usage
   <div class="equal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto veritatis reiciendis repellendus autem aspernatur asperiores nihil unde? Laborum cumque inventore nemo eum ab debitis adipisci a obcaecati nesciunt commodi doloribus.</div>
   <div class="equal">short</div>
 </div> <!-- equal-container -->
-``
+```
 
 ```javascript
 $('.equal-container').each(function() {
