@@ -26,5 +26,5 @@ Installation
 ------------
 
 ```shell
-bower install markusfalk/equal-height
+bower install jquery.equal-height
 ```
