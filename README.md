@@ -1,5 +1,5 @@
-equal-height
-============
+jquery.equal-height
+===================
 
 (jQuery Plugin, Bower)
 
