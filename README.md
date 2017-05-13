@@ -1,7 +1,9 @@
 jquery.equal-height
 ===================
 
-(jQuery Plugin, Bower)
+![Project is deprecated!](https://cdn.rawgit.com/OpenSourceWorkflow/generator-kickstart/master/deprecation-warning.svg)
+
+This project has been deprecated!
 
 jQuery Plugin for getting and setting the min-height of given elements to the highest calculated value.
 
